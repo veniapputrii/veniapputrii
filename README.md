@@ -32,3 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=veniapputrii&show_icons=true&locale=en" alt="veniapputrii" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=veniapputrii&" alt="veniapputrii" /></p>
+![](https://github.com/veniapputrii/veniapputrii/raw/main/overview.svg)
+![](https://github.com/veniapputrii/veniapputrii/raw/main/languages.svg)
