@@ -31,15 +31,24 @@ jobs:
           ANIMATION: true
         run: |
           $(go env GOPATH)/bin/github-status
+          ls -la
 
       - name: Commit generated SVGs
         run: |
+          echo "Generated files:"
+          ls -la
+          
+          if [ ! -f overview.svg ] && [ ! -f languages.svg ]; then
+            echo "No SVG files were generated."
+            exit 1
+          fi
+          
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git add overview.svg languages.svg
-
+          
+          git add *.svg
+          
           git diff --cached --quiet && exit 0
-
+          
           git commit -m "Update GitHub statistics"
           git push
