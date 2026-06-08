@@ -36,17 +36,17 @@ jobs:
       - name: Commit generated SVGs
         run: |
           echo "Generated files:"
-          ls -la
+          find . -name "*.svg" -print
           
-          if [ ! -f overview.svg ] && [ ! -f languages.svg ]; then
-            echo "No SVG files were generated."
+          if [ ! -d output ] || ! ls output/*.svg >/dev/null 2>&1; then
+            echo "No SVG files were generated in output/"
             exit 1
           fi
           
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
-          git add *.svg
+          git add output/*.svg
           
           git diff --cached --quiet && exit 0
           

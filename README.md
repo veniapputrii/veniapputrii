@@ -26,6 +26,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=veniapputrii&" alt="veniapputrii" /></p>
 
-![Overview](./overview.svg)
-![Languages](./languages.svg)
+![Overview](./output/overview.svg)
+
+![Languages](./output/languages.svg)
 
