@@ -22,7 +22,7 @@ jobs:
           go-version: 'stable'
 
       - name: Install github-status
-        run: go install github.com/TBXark/github-status@latest
+        run: go install github.com/tbxark/github-status@latest
 
       - name: Generate statistics
         env:
