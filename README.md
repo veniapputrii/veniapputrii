@@ -13,8 +13,6 @@
 
 - ⚡ Fun fact **I think I'm a strong person**
 
-<h3 align="left">Connect with me:</h3>
-
 
 
 
