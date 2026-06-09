@@ -14,9 +14,5 @@
 - ⚡ Fun fact **I think I'm a tough person**
 
 
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=veniapputrii&" alt="veniapputrii" /></p>
-
 ![Overview](./output/overview.svg)   ![Languages](./output/languages.svg)
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=veniapputrii&" alt="veniapputrii" /></p>
