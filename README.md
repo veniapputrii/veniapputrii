@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **veniapputri@gmail.com**
 
-- ⚡ Fun fact **I think I'm a strong person**
+- ⚡ Fun fact **I think I'm a tough person**
 
 
 
