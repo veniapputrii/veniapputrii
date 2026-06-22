@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI, SQL, R, Python, Statistics and Business**
 
-- 📝 I write articles on [medium.com/@flouheidi](medium.com/@flouheidi)
+- 📝 I write articles on [medium.com/@flouheidi](https://medium.com/@heidialdisu)
 
 - 💬 Ask me about **Business and Data Science**
 
