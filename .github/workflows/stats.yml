@@ -26,6 +26,7 @@ jobs:
 
       - name: Generate statistics
         env:
+          ACCESS_TOKEN: ${{ secrets.STATS_TOKEN }}
           GITHUB_TOKEN: ${{ github.token }}
           CUSTOM_ACTOR: veniapputrii
           ANIMATION: true
