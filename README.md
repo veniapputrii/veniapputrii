@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Heidi</h1>
+<h1 align="center">Hi 👋, I'm Veni</h1>
 
 - 🔭 I recently graduated from **Information Systems**
 - 💡 I'm interested in **Data Science, Business, AI**
