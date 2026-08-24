@@ -104,13 +104,13 @@
                     <div>
                         <span class="progress">
                             
-                                <span style="background-color:#DA5B0B; width:94.551%;" class="progress-item"/>
+                                <span style="background-color:#DA5B0B; width:94.544%;" class="progress-item"/>
                             
                                 <span style="background-color:#3572A5; width:1.488%;" class="progress-item"/>
                             
                                 <span style="background-color:#e38c00; width:1.315%;" class="progress-item"/>
                             
-                                <span style="background-color:#198CE7; width:0.877%;" class="progress-item"/>
+                                <span style="background-color:#198CE7; width:0.884%;" class="progress-item"/>
                             
                                 <span style="background-color:#f1e05a; width:0.845%;" class="progress-item"/>
                             
@@ -132,7 +132,7 @@
                                     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
                                 </svg>
                                 <span class="lang">Jupyter Notebook</span>
-                                <span class="percent">94.551%</span>
+                                <span class="percent">94.544%</span>
                             </li>
                         
                             <li style="animation-delay: 150ms;" >
@@ -159,7 +159,7 @@
                                     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
                                 </svg>
                                 <span class="lang">R</span>
-                                <span class="percent">0.877%</span>
+                                <span class="percent">0.884%</span>
                             </li>
                         
                             <li style="animation-delay: 600ms;" >
