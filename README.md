@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **AI, SQL, R, Python, Statistics and Business**
 
-- 💬 Ask me about **Business and Data Science**
-
 - 📫 How to reach me **veniapputri@gmail.com**
 
 - ⚡ Fun fact **I think I'm a tough person**
