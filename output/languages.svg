@@ -104,17 +104,17 @@
                     <div>
                         <span class="progress">
                             
-                                <span style="background-color:#DA5B0B; width:78.075%;" class="progress-item"/>
+                                <span style="background-color:#DA5B0B; width:78.007%;" class="progress-item"/>
                             
-                                <span style="background-color:#3572A5; width:18.503%;" class="progress-item"/>
+                                <span style="background-color:#3572A5; width:18.575%;" class="progress-item"/>
                             
-                                <span style="background-color:#e38c00; width:1.136%;" class="progress-item"/>
+                                <span style="background-color:#e38c00; width:1.135%;" class="progress-item"/>
                             
-                                <span style="background-color:#198CE7; width:0.757%;" class="progress-item"/>
+                                <span style="background-color:#198CE7; width:0.756%;" class="progress-item"/>
                             
                                 <span style="background-color:#f1e05a; width:0.730%;" class="progress-item"/>
                             
-                                <span style="background-color:#336790; width:0.276%;" class="progress-item"/>
+                                <span style="background-color:#336790; width:0.275%;" class="progress-item"/>
                             
                                 <span style="background-color:#e34c26; width:0.257%;" class="progress-item"/>
                             
@@ -132,7 +132,7 @@
                                     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
                                 </svg>
                                 <span class="lang">Jupyter Notebook</span>
-                                <span class="percent">78.075%</span>
+                                <span class="percent">78.007%</span>
                             </li>
                         
                             <li style="animation-delay: 150ms;" >
@@ -141,7 +141,7 @@
                                     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
                                 </svg>
                                 <span class="lang">Python</span>
-                                <span class="percent">18.503%</span>
+                                <span class="percent">18.575%</span>
                             </li>
                         
                             <li style="animation-delay: 300ms;" >
@@ -150,7 +150,7 @@
                                     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
                                 </svg>
                                 <span class="lang">SQL</span>
-                                <span class="percent">1.136%</span>
+                                <span class="percent">1.135%</span>
                             </li>
                         
                             <li style="animation-delay: 450ms;" >
@@ -159,7 +159,7 @@
                                     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
                                 </svg>
                                 <span class="lang">R</span>
-                                <span class="percent">0.757%</span>
+                                <span class="percent">0.756%</span>
                             </li>
                         
                             <li style="animation-delay: 600ms;" >
@@ -177,7 +177,7 @@
                                     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
                                 </svg>
                                 <span class="lang">PLpgSQL</span>
-                                <span class="percent">0.276%</span>
+                                <span class="percent">0.275%</span>
                             </li>
                         
                             <li style="animation-delay: 900ms;" >
