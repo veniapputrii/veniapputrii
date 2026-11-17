@@ -104,9 +104,9 @@
                     <div>
                         <span class="progress">
                             
-                                <span style="background-color:#DA5B0B; width:68.697%;" class="progress-item"/>
+                                <span style="background-color:#DA5B0B; width:68.709%;" class="progress-item"/>
                             
-                                <span style="background-color:#3572A5; width:27.636%;" class="progress-item"/>
+                                <span style="background-color:#3572A5; width:27.625%;" class="progress-item"/>
                             
                                 <span style="background-color:#e38c00; width:1.539%;" class="progress-item"/>
                             
@@ -132,7 +132,7 @@
                                     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
                                 </svg>
                                 <span class="lang">Jupyter Notebook</span>
-                                <span class="percent">68.697%</span>
+                                <span class="percent">68.709%</span>
                             </li>
                         
                             <li style="animation-delay: 150ms;" >
@@ -141,7 +141,7 @@
                                     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
                                 </svg>
                                 <span class="lang">Python</span>
-                                <span class="percent">27.636%</span>
+                                <span class="percent">27.625%</span>
                             </li>
                         
                             <li style="animation-delay: 300ms;" >
